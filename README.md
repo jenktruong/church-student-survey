@@ -7,3 +7,7 @@ This project was based on one of the annual projects I executed as an administra
 ## Data Sources
 
 Datasets for survey results were randomly generated using [Mockaroo](https://mockaroo.com/).
+
+## Data Cleaning
+
+## Key Insights and Recommendations
