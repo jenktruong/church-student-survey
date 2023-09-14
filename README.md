@@ -2,12 +2,26 @@
 
 ## Intro
 
-This project was based on one of the annual projects I executed as an administrative assistant at a church near my local university.
+This project was based on one of the annual projects I executed as an administrative assistant at a church near my local university. Every year, we ask new and current community members what kinds of events and groups they would like to see at our church. Here are the five main categories:
+
+- Liturgy (Sunday and daily services, prayer services, choir practice, etc.)
+- Education and Faith Development (weekly Bible studies, guest speakers, etc.)
+- Community Life (weekly dinners, socials, study halls, etc.)
+- Outreach (social media, publicity, campus activities, interfaith events)
+- Social Justice (fundraisers, mission trips, etc.)
 
 ## Data Sources
 
-Datasets for survey results were randomly generated using [Mockaroo](https://mockaroo.com/).
+Dataset for survey results were randomly generated using [Mockaroo](https://mockaroo.com/).
+
+Here is the table schema:
+
+## Tech Stack
+
+Microsoft Excel (PowerQuery)
 
 ## Data Cleaning
+
+- Used "Group By" function in Power Query to get numbers of votes for event categories
 
 ## Key Insights and Recommendations
