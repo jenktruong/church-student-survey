@@ -10,6 +10,8 @@ This project was based on one of the annual projects I executed as an administra
 - Outreach (social media, publicity, campus activities, interfaith events)
 - Social Justice (fundraisers, mission trips, etc.)
 
+In this survey, we also asked people what methods of contact they prefer for news and announcements (email, social media, phone).
+
 ## Data Sources
 
 Dataset for survey results were randomly generated using [Mockaroo](https://mockaroo.com/).
@@ -22,6 +24,6 @@ Microsoft Excel (PowerQuery)
 
 ## Data Cleaning
 
-- Used "Group By" function in Power Query to get numbers of votes for event categories
+- Used "Pivot Column" function in Power Query to replace nulls in preferred_method_contact column with "no answer"
 
 ## Key Insights and Recommendations
