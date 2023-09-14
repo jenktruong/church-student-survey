@@ -16,7 +16,7 @@ In this survey, we also asked people what methods of contact they prefer for new
 
 Dataset for survey results were randomly generated using [Mockaroo](https://mockaroo.com/).
 
-Here is the table schema:
+Here is the table schema: (insert pic)
 
 ## Tech Stack
 
@@ -24,6 +24,10 @@ Microsoft Excel (PowerQuery)
 
 ## Data Cleaning
 
-- Used "Pivot Column" function in Power Query to replace nulls in preferred_method_contact column with "no answer"
+### Power Query
+
+- Used "Pivot Column" function to replace nulls in preferred_method_contact column with "no answer"
+- Selected event category columns ('liturgy', 'education_faith_devlp', 'social_justice', 'community_life', 'outreach') and used "Unpivot Only Selected Columns"
+- Renamed new columns to "category" and "votes" 
 
 ## Key Insights and Recommendations
