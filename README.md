@@ -20,7 +20,7 @@ Here is the table schema: (insert pic)
 
 ## Tech Stack
 
-Microsoft Excel (PowerQuery)
+Microsoft Excel (PowerQuery, PivotTables, PivotCharts)
 
 ## Data Cleaning
 
