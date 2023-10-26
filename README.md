@@ -8,7 +8,7 @@ This project was based on one of the annual projects I executed as an administra
 - Education and Faith Development (weekly Bible studies, guest speakers, etc.)
 - Community Life (weekly dinners, socials, study halls, etc.)
 - Outreach (social media, publicity, campus activities, interfaith events)
-- Social Justice (fundraisers, mission trips, etc.)
+- Social Justice (charity fundraisers, volunteer events, mission trips, etc.)
 
 In this survey, we also asked people what methods of contact they prefer for news and announcements (email, social media, phone).
 
