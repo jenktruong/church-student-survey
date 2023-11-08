@@ -1,5 +1,8 @@
 # Community Survey for Church Events
 
+![A stock photo of a band standing in front of a crowd.](img/community_event.jpg)
+*Photo courtesy of Matheus Bertelli via [Pexels](https://www.pexels.com/photo/group-of-people-standing-inside-room-2608517/).*
+
 ## Intro
 
 This project was based on one of the annual projects I executed as a church secretary near my local university. Every year, we asked new and current community members what kinds of events and groups they would like to see and join at our church. Here are the five main categories:
@@ -16,7 +19,7 @@ In this survey, we also asked people what methods of contact they prefer for new
 
 The mock dataset for survey results were randomly generated using [Mockaroo](https://mockaroo.com/).
 
-Here is the table schema: (insert pic)
+Here is the table schema: ![Schema set-up for mock data](img/church_survey_schema.png)
 
 ## Tech Stack
 
@@ -38,7 +41,7 @@ Microsoft Excel (PowerQuery, PivotTables, PivotCharts)
 
 ## Dashboard (Excel)
 
-(insert screenshot) 
+![A screenshot of an Excel dashboard containing PivotTables, a slicer, a pie graph, and a bar graph showing survey results and filtering by university year.](img/excel_church_survey_dashboard.png)
 
 ## Key Insights and Recommendations
 
