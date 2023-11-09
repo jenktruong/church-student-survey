@@ -17,7 +17,7 @@ In this survey, we also asked people what methods of contact they prefer for new
 
 ## Data Sources
 
-The mock dataset for survey results were randomly generated using [Mockaroo](https://mockaroo.com/).
+The mock dataset for survey results was randomly generated using [Mockaroo](https://mockaroo.com/).
 
 Here is the table schema: ![Schema set-up for mock data](img/church_survey_schema.png)
 
