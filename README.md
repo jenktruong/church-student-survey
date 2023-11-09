@@ -41,7 +41,7 @@ Microsoft Excel (PowerQuery, PivotTables, PivotCharts)
 
 ## Dashboard (Excel)
 
-![A screenshot of an Excel dashboard containing PivotTables, a slicer, a pie graph, and a bar graph showing survey results and filtering by university year.](img/excel_church_survey_dashboard.png)
+![A screenshot of an Excel dashboard containing PivotTables, a slicer, a pie graph, and a bar graph showing survey results and filtering by university year.](img/excel_church_survey_dashboard_revised.png)
 
 ## Key Insights and Recommendations
 
